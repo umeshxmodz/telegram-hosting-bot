@@ -68,7 +68,7 @@ def get_uptime():
     return f"⏱️ {days}d {hours}h {minutes}m {seconds}s"
 
 # ===== BOT CONFIGURATION =====
-BOT_TOKEN = '8831115800:AAF37eDR5xrguwIlyuHQbDrqfkTNPb-zY0M'
+BOT_TOKEN = '8831115800:AAFeNRdLnpQXc89tvRoMywxemNBuHiv2TGw'
 OWNER_ID = 8323012775
 ADMIN_ID = 8899669850
 YOUR_USERNAME = '@Umeshxmodz'
